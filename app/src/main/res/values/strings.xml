@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Sony BULB Timelapse</string>
+    <string name="title_home">Home</string>
+    <string name="title_about">About</string>
+    <string name="connect_btn_lbl">Connect</string>
+    <string name="frame_count_lbl">Number of Frames:</string>
+    <string name="frame_count_desc">Select number of images to shoot.</string>
+    <string name="shutter_speed_lbl">Shutter Speed:</string>
+    <string name="shutter_speed_desc">Shutter speed for each image</string>
+    <string name="interval_lbl">Interval:</string>
+    <string name="interval_desc">Interval between each image.</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_stop">Stop</string>
+    <string name="about_desc">
+        Version 1.0\n
+        Author: Rohan Deshmukh
+    </string>
+    <string name="exec_steps">
+        Execution Steps:\n
+        1. Open Remote Control App on your camera.\n
+        2. Connect your phone to the camera WiFi.\n
+        3. Click "Connect"\n
+        4. Choose appropriate timelapse settings.\n
+        5. Click "Start"
+    </string>
+</resources>

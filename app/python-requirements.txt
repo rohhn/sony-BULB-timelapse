@@ -1,0 +1,5 @@
+certifi==2022.12.7
+pip==22.3.1
+pysony @ git+https://github.com/rohhn/sony_camera_api.git@ef34e9d37706cabba75a33725f91c6b4ce4f2c7a
+setuptools==65.6.3
+wheel==0.38.4
